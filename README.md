@@ -13,8 +13,8 @@ Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e 
 | **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Engenharia de Dados** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | **Visualização** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) |
-| **Conhecimentos** | Lógica de Programação, Automação, Análise de Dados |
-| **Idiomas** | Inglês Avançado (C1/C2) |
+| **Conhecimentos** | Lógica de Programação, Automação, Análise de Dados, Engenharia de Dados |
+| **Idiomas** | Inglês Avançado |
 
 ---
 
@@ -22,7 +22,7 @@ Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e 
 
 * 🚀 **Aprendizado Rápido:** Adoro o desafio de aprender novas ferramentas e bibliotecas.
 * 🧠 **Pensamento Lógico:** Focado em resolver problemas de forma eficiente e estruturada.
-* 👥 **Colaboração:** Acredito que a comunicação é a chave para o sucesso em qualquer equipe técnica.
+* 👥 **Colaboração:** Bom em colaboração e projetos em grupo.
 * 📅 **Disciplina:** Rotina constante de estudos e projetos práticos.
 
 ---
