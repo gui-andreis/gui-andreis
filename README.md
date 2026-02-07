@@ -1,7 +1,6 @@
 # Olá, eu sou o Guilherme! 👋
 
-### Estudante de Informática | Aspirante a Engenheiro de Dados
-
+## 💻Data Engineer  |  Power Bi | Airflow | Docker | Python | SQL | Git |
 Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e pela arte de transformar dados em informação. Atualmente, foco meus estudos em **Python, automação e arquitetura de dados**, buscando sempre aplicar a lógica em projetos reais e práticos.
 
 ---
