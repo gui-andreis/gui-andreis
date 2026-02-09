@@ -24,7 +24,7 @@ Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-![Git](https://git-scm.com/)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
