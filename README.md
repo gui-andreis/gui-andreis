@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme! 👋
+# Guilherme Andreis
 
 ## 💻Data Engineer  | Python | Airflow | Docker | Power Bi | SQL | Git |
 Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e pela arte de transformar dados em informação. Atualmente, foco meus estudos em **Python, automação e arquitetura de dados**, buscando sempre aplicar a lógica em projetos reais e práticos.
