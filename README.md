@@ -32,6 +32,9 @@ Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40" />
+
 </p>
 ---
 
