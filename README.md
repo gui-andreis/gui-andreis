@@ -30,16 +30,15 @@ Sou estudante do 3º ano no IFRS Caxias do Sul, apaixonado por tecnologia e por 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="45" height="45" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="45" height="45" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="45" height="45" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
 </p>
-
 ---
 
 ### 📫 Vamos nos conectar?
