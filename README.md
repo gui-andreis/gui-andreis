@@ -1,17 +1,19 @@
 # Guilherme Andreis
 
 ## 💻Data Engineer  | Python | Airflow | Docker | Power Bi | SQL | Git |
-Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e pela arte de transformar dados em informação. Atualmente, foco meus estudos em **Python, automação e arquitetura de dados**, buscando sempre aplicar a lógica em projetos reais e práticos.
+Sou estudante do 3º ano no IFRS Caxias do Sul, apaixonado por tecnologia e por transformar dados em informação. Atualmente, foco meus estudos em Engenharia de Dados, desenvolvendo projetos end-to-end com **Python**, **Airflow**, **Spark (PySpark)**, **PostgreSQL** e **Power BI**, utilizando **Docker/Docker Compose** para criar pipelines automatizadas e escaláveis.
 
----
 ### 🎖 Principais habilidades :
 
 - Python
-- SQL
-- Airflow
-- Lógica de programação
-- Fundamentos de programação
-- Automação e scripts simples
+- SQL (PostgreSQL / SQL Server)
+- Apache Airflow
+- Apache Spark (PySpark)
+- Docker / Docker Compose
+- ETL / ELT Pipelines
+- Data Modeling (Bronze / Silver / Gold - Medallion Architecture)
+- Power BI
+- Git / GitHub
 - Inglês Avançado
 - 
 ### 👓 Características pessoais:
@@ -26,16 +28,18 @@ Sou estudante do 3º ano no **IFRS Caxias do Sul**, apaixonado por tecnologia e 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
 </p>
+
 ---
 
 ### 📫 Vamos nos conectar?
