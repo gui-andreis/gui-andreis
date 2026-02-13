@@ -1,6 +1,6 @@
 # Guilherme Andreis
 
-## 💻Data Engineer  | Python | Airflow | Docker | Power Bi | SQL | Git |
+## 💻Data Engineer  | Python | Spark | Airflow | Docker | Power Bi | SQL | Git |
 Sou estudante do 3º ano no IFRS Caxias do Sul, apaixonado por tecnologia e por transformar dados em informação. Atualmente, foco meus estudos em Engenharia de Dados, desenvolvendo projetos end-to-end com **Python**, **Airflow**, **Spark (PySpark)**, **PostgreSQL** e **Power BI**, utilizando **Docker/Docker Compose** para criar pipelines automatizadas e escaláveis.
 
 ### 🎖 Principais habilidades :
