@@ -15,7 +15,7 @@ Sou estudante do 3º ano no IFRS Caxias do Sul, apaixonado por tecnologia e por 
 - Power BI
 - Git / GitHub
 - Inglês Avançado
-- 
+  
 ### 👓 Características pessoais:
 
 * 🚀 **Aprendizado Rápido:** Adoro o desafio de aprender novas ferramentas e bibliotecas.
