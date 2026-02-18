@@ -44,6 +44,7 @@ Sou estudante do 3º ano no IFRS Caxias do Sul, apaixonado por tecnologia e por 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/ffffff" width="45" height="45" />
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg width="45" height="45" />
 </p>
 
 ---
