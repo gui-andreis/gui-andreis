@@ -1,12 +1,15 @@
 # Guilherme Andreis
 
-## 💻Data Engineer  | Python | Spark | Airflow | Docker | Power Bi | SQL | Git |
+## 💻 IA & Data Engineer  | Python | C# | N8N | LLM | Spark | Airflow | Docker | Power Bi | SQL | Git |
 Sou estudante do 3º ano no IFRS Caxias do Sul, apaixonado por tecnologia e por transformar dados em informação. Atualmente, foco meus estudos em Engenharia de Dados, desenvolvendo projetos end-to-end com **Python**, **Airflow**, **Spark (PySpark)**, **PostgreSQL** e **Power BI**, utilizando **Docker/Docker Compose** para criar pipelines automatizadas e escaláveis.
 
 ### 🎖 Principais habilidades :
 
 - Python
+- C#
 - SQL (PostgreSQL / SQL Server)
+- N8N
+- LLM
 - Apache Airflow
 - Apache Spark (PySpark)
 - Docker / Docker Compose
@@ -29,8 +32,10 @@ Sou estudante do 3º ano no IFRS Caxias do Sul, apaixonado por tecnologia e por 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" />
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/FF6D00" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;
